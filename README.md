@@ -1,16 +1,22 @@
-## Hi there 👋
+# ViсtorNVK`s lair💻
 
-<!--
-**VictorNVK/VictorNVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me🟢
+        I am young developer from Russia. Now, my main/favorite language is java
+        But, also i want learn other language, python, js(node.js), kotlin(maybe lol)
+        
+### Why programming?       
+    Idk, maybe because I love to create something. And because I can get money for my creations(Only good ones)
+    I doesn`t like make useless pet project. I think if your code is not useful - you are a bad developer
+    
+## Langs, which i used (a lot of java, yes?)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNVK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I think these statistics will be better after time🕘
+
+![VictorNVK's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorNVK&show_icons=true&theme=radical)
+
+
+## Code wars & leetcode stats
+
+[![codewars](https://www.codewars.com/users/i22s0634/badges/large)](https://www.codewars.com/users/username) 
