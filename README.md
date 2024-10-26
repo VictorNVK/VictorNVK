@@ -18,16 +18,9 @@
 
 
 
-## Code wars & leetcode stats
-
-[![codewars](https://www.codewars.com/users/i22s0634/badges/large)](https://www.codewars.com/users/username) 
-
-
-
 ---
 <div style="display:flex;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
         
 </div>
